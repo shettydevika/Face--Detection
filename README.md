@@ -11,7 +11,7 @@ Installation
 
 1. Clone the Repository:
 
-   git clone https://github.com/your-username/face-detection-onnx.git
+   git clone https://github.com/shettydevika/Face--Detection.git
    cd face-detection-onnx
 
 2. Create and Activate a Virtual Environment:
@@ -47,10 +47,13 @@ Screenshots
 ---------------------------------------------------------------------------------------------------------------------------
 
 Figure 1: Test Image
+![Alt Text](images/image8.jpg)
 
 Figure 2: Face Detection Result
+![Alt Text](URL_of_the_image)
 
 Figure 3: VS Code Result
+![Alt Text](URL_of_the_image)
 
 Conclusion
 ---------------------------------------------------------------------------------------------------------------------------

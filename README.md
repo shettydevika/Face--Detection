@@ -50,10 +50,11 @@ Figure 1: Test Image
 ![Alt Text](images/image8.jpg)
 
 Figure 2: Face Detection Result
-![Alt Text](URL_of_the_image)
+![Alt Text](result.png)
 
 Figure 3: VS Code Result
-![Alt Text](URL_of_the_image)
+![Alt Text](vs1.png)
+![Alt Text](vs2.png)
 
 Conclusion
 ---------------------------------------------------------------------------------------------------------------------------

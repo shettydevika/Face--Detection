@@ -12,14 +12,16 @@ Installation
 1. Clone the Repository:
 
    git clone https://github.com/shettydevika/Face--Detection.git
+   
    cd face-detection-onnx
 
-2. Create and Activate a Virtual Environment:
+3. Create and Activate a Virtual Environment:
 
    python -m venv venv
+   
    source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
 
-3. Install Dependencies:
+5. Install Dependencies:
 
      pip install -r requirements.txt
 

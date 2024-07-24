@@ -1,3 +1,5 @@
 Face Detection with YOLOv5 and ONNX
 ---------------------------------------------------------------------------------------------------------------------------
-This project demonstrates face detection using the YOLOv5 model converted to the ONNX format. The goal is to detect faces in images and evaluate the model's performance and accuracy.
+---------------------------------------------------------------------------------------------------------------------------
+Overview
+This project demonstrates the implementation of a face detection system using the YOLOv5 model converted to ONNX format. The system processes input images to accurately detect and localize faces, drawing bounding boxes around detected faces and providing confidence scores.

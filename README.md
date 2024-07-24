@@ -31,6 +31,9 @@ Usage
 1. Prepare the Input Image:
 
   Place the image you want to test in the images directory.
+  Ensure the image path in your script is correctly set to the location where the image is saved. For example:
+
+   image_path = 'images/image1.jpg'
 
 2. Run the Face Detection Script:
 

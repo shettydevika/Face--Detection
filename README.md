@@ -18,10 +18,14 @@ This project demonstrates the implementation of a face detection system using th
 ## Technologies Used
 
 - **Programming Language**: Python
-- **Machine Learning**: TensorFlow, Keras, scikit-learn
-- **Natural Language Processing**: NLTK, SpaCy
-- **Data Handling**: Pandas
+- **Object Detection**: YOLOv5 (You Only Look Once), Open Neural Network Exchange (ONNX)
+- **Inference Engine**: ONNX Runtime
+- **Computer Vision**: OpenCV
+- **Numerical Computation**: NumPy
 - **Development Environment**: Visual Studio Code
+- **Version Control**: Git
+- **Repository Hosting**: GitHub
+  
 
 
 ## Installation
@@ -65,7 +69,6 @@ The script will display the input image with detected faces marked by bounding b
 The YOLOv5 ONNX model successfully detects faces in input images with high accuracy and efficiency. Detected faces are marked with bounding boxes, and confidence scores are displayed, indicating the reliability of the detections.
 
 ## Screenshots
-
 
 - **Figure 1: Test Image**
 ![Alt Text](images/image8.jpg)
